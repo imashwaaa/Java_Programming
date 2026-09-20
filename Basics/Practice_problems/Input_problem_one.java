@@ -16,5 +16,6 @@ public class Input_problem_one {
         System.out.println("Difference = "+(first_num-second_num));
         System.out.println("Product = "+(first_num*second_num));
         
+        sc.close();
     }
 }
