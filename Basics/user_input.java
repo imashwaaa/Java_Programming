@@ -6,7 +6,7 @@ public class user_input {
         
         //taking inputs
         System.out.print("Enter your name: ");
-        String name = sc.next();
+        String name = sc.nextLine();
         System.out.print("Enter your age: ");
         int age = sc.nextInt();
         System.out.print("Enter your CGPA: ");
