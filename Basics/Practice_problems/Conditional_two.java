@@ -17,7 +17,7 @@ public class Conditional_two {
         System.out.println("Marks:"+marks);
         System.out.println("Attendance:"+attendance);
         if (marks >= 75 || attendance >= 80){
-            System.err.println("Qualified");
+            System.out.println("Qualified");
         }
         else{
             System.out.println("Not Qualified");
