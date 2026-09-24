@@ -19,7 +19,6 @@ public class Conditional_one {
             System.out.println("Not Eligible");
         }
 
-
         sc.close();
     }
 }
