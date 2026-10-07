@@ -23,7 +23,7 @@ public class Method_ten {
 
         int largestDigit = larDigit(num1);
 
-        if (largestDigit!=0){
+        if (largestDigit!=-1){
             System.out.println("Largest Digit: "+largestDigit); 
         } else{
             System.out.println("number invalid");
